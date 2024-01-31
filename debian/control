@@ -9,5 +9,5 @@ Homepage: https://github.com/jinliu/kdotool
 
 Package: kdotool
 Architecture: amd64
-Description: AN xdotool clone for Plasma Wayland.
+Description: An xdotool clone for Plasma Wayland.
  Package to add kdotool to the distribution.
